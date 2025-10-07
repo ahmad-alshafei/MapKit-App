@@ -148,6 +148,8 @@
 				DEVELOPMENT_TEAM = F95TQFH8K3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MabKit1/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Please allow access to the always Location so that you can reach the doctors near you or they can reach you.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Please allow access to the Location so that you can reach the doctors near you or they can reach you.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +178,8 @@
 				DEVELOPMENT_TEAM = F95TQFH8K3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MabKit1/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Please allow access to the always Location so that you can reach the doctors near you or they can reach you.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Please allow access to the Location so that you can reach the doctors near you or they can reach you.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
